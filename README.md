@@ -1,7 +1,5 @@
 # Is Biden President?
 
-Nope.
+Nope, and we likely won't know for awhile!
 
-Go vote: https://iwillvote.com/
-
-And donate: https://secure.actblue.com/donate/ads_dd_gs_general
+[See the Politico election results tracker](https://www.politico.com/2020-election/results/)
